@@ -26,3 +26,7 @@
 	path = addons/OCA/purchase-workflow
 	url = https://github.com/OCA/purchase-workflow.git
 	branch = 12.0
+[submodule "addons/OCA/reporting-engine"]
+	path = addons/OCA/reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 12.0
