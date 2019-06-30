@@ -30,3 +30,7 @@
 	path = addons/OCA/reporting-engine
 	url = https://github.com/OCA/reporting-engine.git
 	branch = 12.0
+[submodule "addons/OCA/account-invoicing"]
+	path = addons/OCA/account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = 12.0
