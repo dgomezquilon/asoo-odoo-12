@@ -10,3 +10,7 @@
 	path = addons/OCA/account-financial-tools
 	url = https://github.com/OCA/account-financial-tools.git
 	branch = 12.0
+[submodule "addons/OCA/credit-control"]
+	path = addons/OCA/credit-control
+	url = https://github.com/OCA/credit-control.git
+	branch = 12.0
